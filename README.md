@@ -32,7 +32,7 @@ source ~/.my_commands.sh
   
 ### Usage:
 
-To run the script type in 'create <name of your folder>'
+To run the script type in 'create \<name of your folder>'
   
 Please 🌟 the project and share it with your developer friends!
   
