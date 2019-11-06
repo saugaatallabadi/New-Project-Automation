@@ -1,6 +1,6 @@
 # Git Project Automation
 <img align = "right" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width = 100px></img>
-Get started on your project with just 1 command
+<b>Get started on your new project with just 1 command</b>
 
 Here, I create a <b>shell script</b> and a <b>python script</b> for my terminal that will automate the process of creating new projects for me.
 I created a custom command that
